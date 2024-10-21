@@ -1,0 +1,14 @@
+# LaTeX compiled file
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.bbl
+*.blg
+*.nav
+*.xml
+*.snm
+*-blx.bib
+# specific for MacOS
+.DS_Store
